@@ -235,6 +235,8 @@ return {
 		else
 
 			weeks:draw()
+
+			if gameOver then return end
 			
 			love.graphics.push()
 				love.graphics.translate(lovesize.getWidth() / 2, lovesize.getHeight() / 2)
