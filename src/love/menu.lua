@@ -29,7 +29,7 @@ local weekIDs = {
 	"Week 3",
 	"Week 4",
 	"Week 5",
-	"Whitty"
+	"Garcello"
 }
 local weekSongs = {
 	{
@@ -60,9 +60,9 @@ local weekSongs = {
 		"Winter Horrorland"
 	},
 	{
-		"Lo Fight",
-		"Overhead",
-		"Ballistic"
+		"Headache",
+		"Nerves",
+		"Release"
 	}
 }
 local difficultyStrs = {

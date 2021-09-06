@@ -44,10 +44,12 @@ return Sprite (
 		{x = 150, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 22: Boyfriend (Pixel)
 		{x = 300, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 23: Senpai
 		{x = 450, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 24: Spirit
-		{x = 600, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 25: Whitty
-		{x = 750, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 26: Whitty Losing
-		{x = 1200, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 27: Crazy Whitty
-		{x = 1350, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0} -- 28: Crazy Whitty Losing
+		{x = 1200, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 25: Garcello
+		{x = 1350, y = 300, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 26: Garcello Losing
+		{x = 0, y = 450, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 27: Garcello Tired
+		{x = 150, y = 450, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 28: Garcello Tired Losing
+		{x = 300, y = 450, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0}, -- 29: Garcello Dead
+		{x = 450, y = 450, width = 150, height = 150, offsetX = 0, offsetY = 0, offsetWidth = 0, offsetHeight = 0} -- 30: Garcello Dead Losing
 	},
 	{
 		["boyfriend"] = {start = 1, stop = 1, speed = 0, offsetX = 0, offsetY = 0},
@@ -74,10 +76,12 @@ return Sprite (
 		["boyfriend (pixel)"] = {start = 22, stop = 22, speed = 0, offsetX = 0, offsetY = 0},
 		["senpai"] = {start = 23, stop = 23, speed = 0, offsetX = 0, offsetY = 0},
 		["spirit"] = {start = 24, stop = 24, speed = 0, offsetX = 0, offsetY = 0},
-		["whitty"] = {start = 25, stop = 25, speed = 0, offsetX = 0, offsetY = 0},
-		["whitty losing"] = {start = 26, stop = 26, speed = 0, offsetX = 0, offsetY = 0},
-		["crazy whitty"] = {start = 27, stop = 27, speed = 0, offsetX = 0, offsetY = 0},
-		["crazy whitty losing"] = {start = 28, stop = 28, speed = 0, offsetX = 0, offsetY = 0}
+		["garcello"] = {start = 25, stop = 25, speed = 0, offsetX = 0, offsetY = 0},
+		["garcello losing"] = {start = 26, stop = 26, speed = 0, offsetX = 0, offsetY = 0},
+		["garcello tired"] = {start = 27, stop = 27, speed = 0, offsetX = 0, offsetY = 0},
+		["garcello tired losing"] = {start = 28, stop = 28, speed = 0, offsetX = 0, offsetY = 0},
+		["garcello dead"] = {start = 29, stop = 29, speed = 0, offsetX = 0, offsetY = 0},
+		["garcello dead losing"] = {start = 30, stop = 30, speed = 0, offsetX = 0, offsetY = 0}
 	},
 	"boyfriend",
 	false
