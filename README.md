@@ -1,4 +1,4 @@
-# All this code is now defunct. If you run this on your switch it will probably crash your machine.
+All this code is now defunct. If you run this on your switch it will probably crash your machine.
 
 ## Thanks to Guglio from the FNFR Discord for updating this code. https://www.mediafire.com/folder/rgnf3dxq17w1i/FNFR_Garcello
 
