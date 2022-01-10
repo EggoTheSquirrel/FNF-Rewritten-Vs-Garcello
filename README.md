@@ -1,3 +1,10 @@
+# All this code is now defunct. If you run this on your switch it will probably crash your machine.
+## Thanks to Guglio from the FNFR Discord, Garcello lives on.
+
+Join the FNFR Discord: https://discord.gg/tQGzN2Wu48
+
+Original readme:
+
 # Friday Night Funkin' Vs. Garcello for Nintendo Switch
 This is a mod of the FNF Rewritten by HTV04 which can be found here https://github.com/HTV04/funkin-rewritten.
 It adds a week for Garcello, one of my favorite characters to be modded into the original FNF.
